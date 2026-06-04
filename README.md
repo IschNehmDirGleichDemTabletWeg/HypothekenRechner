@@ -4,7 +4,7 @@ Ein interaktiver Hypotheken- und Sparvergleichsrechner mit grafischer Oberfläch
 An interactive mortgage and savings comparison calculator with a graphical interface.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 ---
@@ -151,4 +151,15 @@ The finished `.exe` is located in `dist/hypothekenrechner.exe`.
 
 ## 📜 Lizenz / License
 
-MIT License — frei verwendbar / free to use.
+**Apache License 2.0**
+
+Du darfst diesen Code frei nutzen, verändern und weitergeben — auch kommerziell.  
+**Bedingung:** Der Ursprung (dieses Repository) muss immer genannt werden.  
+Änderungen müssen als solche gekennzeichnet werden.
+
+You are free to use, modify and distribute this code — including commercially.  
+**Condition:** The origin (this repository) must always be credited.  
+Modifications must be marked as such.
+
+Copyright 2025 [IschNehmDirGleichDemTabletWeg](https://github.com/IschNehmDirGleichDemTabletWeg)  
+→ https://github.com/IschNehmDirGleichDemTabletWeg/HypothekenRechner
