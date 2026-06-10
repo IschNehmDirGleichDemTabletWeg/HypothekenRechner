@@ -7,6 +7,11 @@ An interactive mortgage and savings comparison calculator with a graphical inter
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
+
+<img width="418" height="273" alt="grafik" src="https://github.com/user-attachments/assets/140273c4-166c-40df-bd37-115e36692fd9" />
+<img width="1302" height="832" alt="grafik" src="https://github.com/user-attachments/assets/a06ece68-fe1f-4d7d-9a07-cc6d02a32d7f" />
+
+
 ---
 
 ## 🇩🇪 Deutsch
