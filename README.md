@@ -9,7 +9,8 @@ An interactive mortgage and savings comparison calculator with a graphical inter
 
 
 <img width="418" height="273" alt="grafik" src="https://github.com/user-attachments/assets/140273c4-166c-40df-bd37-115e36692fd9" />
-<img width="1302" height="832" alt="grafik" src="https://github.com/user-attachments/assets/a06ece68-fe1f-4d7d-9a07-cc6d02a32d7f" />
+<img width="1302" height="832" alt="grafik" src="https://github.com/user-attachments/assets/aa84bbfd-9d2f-47ca-8f72-c28adfa4f69d" />
+
 
 
 ---
