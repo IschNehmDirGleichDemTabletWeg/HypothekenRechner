@@ -9,6 +9,13 @@ An interactive mortgage and savings comparison calculator with a graphical inter
 
 
 <img width="418" height="273" alt="grafik" src="https://github.com/user-attachments/assets/140273c4-166c-40df-bd37-115e36692fd9" />
+
+## 🇩🇪 Deutsche Oberfläche
+
+<img width="1302" height="832" alt="grafik" src="https://github.com/user-attachments/assets/1e5a7900-19fe-4e5f-b555-08797ed4dae8" />
+
+## 🇬🇧 English UI
+
 <img width="1302" height="832" alt="grafik" src="https://github.com/user-attachments/assets/aa84bbfd-9d2f-47ca-8f72-c28adfa4f69d" />
 
 
